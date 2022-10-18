@@ -1,16 +1,18 @@
-# GEPP Intro To Azure Bootcamp
+## Digital Skills Accelerator Training - GEPP Intro To Azure Bootcamp
 
 # I - Bienvenida
 
-Bienvenido a su capacitación de Introduccion a Azure, que consta de 7 semanas de capacitación.
+Bienvenido a su capacitación de Introduccion a Azure.
 
-#II. Descripción general de la capacitación
+# II. Descripción general de la capacitación
 
-El objetivo de este bootcamp es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
+El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
 
-# II - Calendario
+# IIi - Calendario
 
-Grupo : Grupo Slack/Teams
+En este calendario veras las sesiones que estan agendadas durante este curso.
+
+
 
 Sesiones en vivo en línea:
 
