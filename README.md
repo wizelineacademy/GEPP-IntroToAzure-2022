@@ -89,17 +89,17 @@ Sesión 14: Sesión de demostración final/cierre de Bootcamp (demostración/ent
 
 Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
-#IV. Proyecto final (Capstone)
+# VI - Proyecto final (Capstone)
 
 ✴️Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
-# VI - Agenda tu Mentoría Sobre Pedido (On-Demand) 📆
+# VII - Agenda tu Mentoría Sobre Pedido (On-Demand) 📆
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones: https://calendly.com/tideworks-qa-automation-2022/30min
 
 Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá su calendario con disponibilidad por día y hora. Elige el que mejor se adapte a tu necesidad. Recuerde completar el formulario de comentarios al final de su tutoría.
 
-# VII. Póngase en contacto con la Academia Wizeline
+# VIII. Póngase en contacto con la Academia Wizeline
 
 Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Academy.
 
