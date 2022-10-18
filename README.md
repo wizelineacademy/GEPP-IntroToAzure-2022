@@ -2,7 +2,7 @@
 
 # I - Bienvenida
 
-Bienvenido a su capacitación de Introduccion a Azure.
+Bienvenido a su capacitación de Introducción a Azure.
 
 # II. Descripción general de la capacitación
 
@@ -10,7 +10,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 # III - Calendario
 
-En este calendario veras las sesiones que estan agendadas durante este curso :
+En este calendario veras las sesiones que están agendadas durante este curso :
 
 <img width="771" alt="Screen Shot 2022-10-18 at 17 54 46" src="https://user-images.githubusercontent.com/115300095/196560350-7433ec3b-1a72-461e-bd9c-4930847f3aaa.png">
 
@@ -20,13 +20,13 @@ En este calendario veras las sesiones que estan agendadas durante este curso :
 
 # IV - Sesiones en línea:
 
-Son clases en linea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesion.
+Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión.
 
 Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom
 
 Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom
 
-En las sesiones en linea es obligatorio tener la cámara encendida todo el tiempo.
+En las sesiones en línea es obligatorio tener la cámara encendida todo el tiempo.
 
 Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
 
@@ -44,17 +44,17 @@ Es un reto creado para poner en práctica los conocimientos adquiridos durante l
 
 # VIII - Sesiones del Curso
 
-Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesion :
+Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **SEMANA 1**
 
 **Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducción**
 
-- *Introduccion al curso de Intro To Azure*
+- *Introducción al curso de Intro To Azure*
 
-**Sesión 2 (Martes 1 Noviembre 2022): Introduccion a Cloud Computing**
+**Sesión 2 (Martes 1 Noviembre 2022): Introducción a Cloud Computing**
 
-- *Shared responsability models*
+- *Shared responsibility models*
 - *Define Cloud Models*
 - *Describe the consumption-based model*
 
@@ -155,7 +155,7 @@ Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
 # X - Proyecto final (Capstone)
 
-✴️ Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
+✴️ Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
 # 📆 XI - Agenda tu Mentoría Sobre Pedido (On-Demand) 
 
