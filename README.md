@@ -51,39 +51,39 @@ Sesión 2 (Martes 1 Noviembre 2022): Introduccion a Cloud Computing
 
 **SEMANA 2**
 
-Sesión 3: Describir los beneficios de usar servicios en la nube
+Sesión 3 (Viernes 4 Noviembre 2022) : Describir los beneficios de usar servicios en la nube
 
-Sesión 4: Describir los tipos de servicios en la nube
+Sesión 4 (Martes 8 Noviembre 2022) : Describir los tipos de servicios en la nube
 
 **SEMANA 3**
 
-Sesión 5: Componentes arquitectónicos centrales
+Sesión 5 (Viernes 11 Noviembre 2022) : Componentes arquitectónicos centrales
 
-Sesión 6: Identidad, acceso y seguridad
+Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad
 
 **SEMANA 4**
 
-Sesión 7: Servicios de almacenamiento
+Sesión 7 (Viernes 18 Noviembre 2022) : Servicios de almacenamiento
 
-Sesión 8: Servicios informáticos y de redes
+Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes
 
 **SEMANA 5**
 
-Sesión 9: Manejo de costos
+Sesión 9 (Viernes 25 Noviembre 2022) : Manejo de costos
 
-Sesión 10: Governance y cumplimiento
+Sesión 10 (Martes 29 Noviembre 2022) : Governance y cumplimiento
 
 **SEMANA 6**
 
-Sesión 11: Gestión e implementación de recursos de Azure
+Sesión 11 (Viernes 2 Diciembre 2022) : Gestión e implementación de recursos de Azure
 
-Sesión 12: Herramientas de monitoreo
+Sesión 12 (Martes 6 Diciembre 2022) : Herramientas de monitoreo
 
 **SEMANA 7**
 
-Sesión 13: Session Cierre (Preguntas y Respuestas)
+Sesión 13 (Viernes 9 Diciembre 2022) : Session Cierre (Preguntas y Respuestas)
 
-Sesión 14: Sesión de demostración final/cierre de Bootcamp (demostración/entrega del proyecto Capstone)
+Sesión 14 (Martes 13 Diciembre 2022) : Sesión de demostración final/cierre de Bootcamp (demostración/entrega del proyecto Capstone)
 
 # 📺 V - Grabación de sesiones y Presentaciones
 
