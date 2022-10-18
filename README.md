@@ -1,4 +1,4 @@
-## Digital Skills Accelerator Training - GEPP Intro To Azure
+# Digital Skills Accelerator Training - GEPP Intro To Azure
 
 # I - Bienvenida
 
