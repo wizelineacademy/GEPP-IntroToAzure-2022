@@ -188,7 +188,7 @@ Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
 ✴️ Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
-# XI - Agenda tu Mentoría Sobre Pedido (On-Demand) 📆
+# 📆 XI - Agenda tu Mentoría Sobre Pedido (On-Demand) 
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones: https://calendly.com/tideworks-qa-automation-2022/30min
 
