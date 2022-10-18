@@ -26,7 +26,7 @@ Deberás asistir a un mínimo de 5 sesiones presenciales para tener derecho a pr
 
 Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
 
-# III - Tutoría Sobre Pedido (On Demand)
+# III - Tutoría Sobre Pedido (On-Demand)
 
 Estas son sesiones en las que puede interactuar con los ingenieros de Wizeline para responder las preguntas que tenga sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el Proyecto Final.
 
@@ -93,7 +93,7 @@ Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
 ✴️Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
-# VI - Agenda tu Mentoría On-Demand 📆
+# VI - Agenda tu Mentoría Sobre Pedido (On-Demand) 📆
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones: https://calendly.com/tideworks-qa-automation-2022/30min
 
