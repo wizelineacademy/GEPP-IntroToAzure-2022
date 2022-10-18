@@ -12,13 +12,13 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 En este calendario veras las sesiones que estan agendadas durante este curso :
 
-<img width="1070" alt="Screen Shot 2022-10-18 at 16 32 17" src="https://user-images.githubusercontent.com/115300095/196549112-e8cf2e35-9bab-484a-bfd9-7a6fe0328eca.png">
+<img width="699" alt="Screen Shot 2022-10-18 at 16 51 13" src="https://user-images.githubusercontent.com/115300095/196552014-17a1857a-2873-45f0-9f08-15d77ae175b7.png">
 
-<img width="1073" alt="Screen Shot 2022-10-18 at 16 32 29" src="https://user-images.githubusercontent.com/115300095/196549178-e821e881-4e64-423b-ac0b-7800b8ae6629.png">
+<img width="698" alt="Screen Shot 2022-10-18 at 16 51 30" src="https://user-images.githubusercontent.com/115300095/196552033-5a682e79-9016-4822-b99d-b0be88e1e70f.png">
 
-<img width="1068" alt="Screen Shot 2022-10-18 at 16 34 12" src="https://user-images.githubusercontent.com/115300095/196549250-a51538ff-776e-4ff5-8086-094caf7e4a8d.png">
+<img width="698" alt="Screen Shot 2022-10-18 at 16 52 23" src="https://user-images.githubusercontent.com/115300095/196552045-ccea7cc9-ae30-49ac-babb-a8c2838bdb05.png">
 
-Sesiones en vivo en línea:
+Sesiones en línea:
 
 Son clases online en vivo impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
 
