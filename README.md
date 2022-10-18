@@ -12,7 +12,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 En este calendario veras las sesiones que estan agendadas durante este curso.
 
-
+https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/issues/1
 
 Sesiones en vivo en línea:
 
