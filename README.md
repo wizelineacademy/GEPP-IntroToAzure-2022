@@ -12,11 +12,11 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 En este calendario veras las sesiones que estan agendadas durante este curso :
 
-<img width="699" alt="Screen Shot 2022-10-18 at 16 51 13" src="https://user-images.githubusercontent.com/115300095/196552014-17a1857a-2873-45f0-9f08-15d77ae175b7.png">
+<img width="771" alt="Screen Shot 2022-10-18 at 17 54 46" src="https://user-images.githubusercontent.com/115300095/196560350-7433ec3b-1a72-461e-bd9c-4930847f3aaa.png">
 
-<img width="698" alt="Screen Shot 2022-10-18 at 16 51 30" src="https://user-images.githubusercontent.com/115300095/196552033-5a682e79-9016-4822-b99d-b0be88e1e70f.png">
+<img width="768" alt="Screen Shot 2022-10-18 at 17 55 04" src="https://user-images.githubusercontent.com/115300095/196560368-ff37307f-9615-4eb8-a3fa-55cf814257cb.png">
 
-<img width="698" alt="Screen Shot 2022-10-18 at 16 52 23" src="https://user-images.githubusercontent.com/115300095/196552045-ccea7cc9-ae30-49ac-babb-a8c2838bdb05.png">
+<img width="767" alt="Screen Shot 2022-10-18 at 17 55 39" src="https://user-images.githubusercontent.com/115300095/196560377-72b897ac-4930-4b0e-a4b1-d394fb007a7a.png">
 
 # IV - Sesiones en línea:
 
