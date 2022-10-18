@@ -8,11 +8,12 @@ Bienvenido a su capacitación de Introduccion a Azure.
 
 El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
 
-# IIi - Calendario
+# III - Calendario
 
-En este calendario veras las sesiones que estan agendadas durante este curso.
+En este calendario veras las sesiones que estan agendadas durante este curso :
 
-https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/issues/1
+
+
 
 Sesiones en vivo en línea:
 
@@ -23,8 +24,6 @@ Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom/WebEx
 Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom/WebEx
 
 En las sesiones online es obligatorio tener la cámara encendida todo el tiempo.
-
-Deberás asistir a un mínimo de 5 sesiones presenciales para tener derecho a presentar tu Proyecto Final.
 
 Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
 
