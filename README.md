@@ -12,8 +12,11 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 En este calendario veras las sesiones que estan agendadas durante este curso :
 
+https://user-images.githubusercontent.com/115300095/196549112-e8cf2e35-9bab-484a-bfd9-7a6fe0328eca.png
 
+https://user-images.githubusercontent.com/115300095/196549178-e821e881-4e64-423b-ac0b-7800b8ae6629.png
 
+https://user-images.githubusercontent.com/115300095/196549250-a51538ff-776e-4ff5-8086-094caf7e4a8d.png
 
 Sesiones en vivo en línea:
 
