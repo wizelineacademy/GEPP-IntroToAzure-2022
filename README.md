@@ -35,7 +35,11 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 En este calendario veras las sesiones que están agendadas durante este curso :
 
+<img width="759" alt="1" src="https://user-images.githubusercontent.com/115300095/196764097-4680796c-4f50-4ab8-9afb-25047a56fcb3.png">
 
+<img width="763" alt="2" src="https://user-images.githubusercontent.com/115300095/196764135-7313d26a-190e-4f51-8000-9ee2c71fcd9c.png">
+
+<img width="758" alt="3" src="https://user-images.githubusercontent.com/115300095/196764151-19d0fda4-6bed-4e73-a600-24e524e04efc.png">
 
 # IV - Curricula del entrenamiento
 
