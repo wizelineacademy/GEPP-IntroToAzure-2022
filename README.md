@@ -21,11 +21,11 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 **Mentorías On-Demand**
 
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. [AQUI](#-vii---agenda-tu-mentoría-sobre-pedido-on-demand) encontraras las instrucciones y ligas para solicitar una sesión.
+- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. [AQUÍ](#-vii---agenda-tu-mentoría-sobre-pedido-on-demand) encontrarás las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 
-- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementen tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
 
@@ -33,7 +33,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 # III - Calendario
 
-En este calendario veras las sesiones que están agendadas durante este curso :
+En este calendario verás las sesiones que están agendadas durante este curso :
 
 <img width="759" alt="1" src="https://user-images.githubusercontent.com/115300095/196764097-4680796c-4f50-4ab8-9afb-25047a56fcb3.png">
 
@@ -41,7 +41,7 @@ En este calendario veras las sesiones que están agendadas durante este curso :
 
 <img width="758" alt="3" src="https://user-images.githubusercontent.com/115300095/196764151-19d0fda4-6bed-4e73-a600-24e524e04efc.png">
 
-# IV - Curricula del entrenamiento
+# IV - Currícula del entrenamiento
 
 Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
@@ -142,7 +142,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 13 (Viernes 9 Diciembre 2022) : Session Cierre (Preguntas y Respuestas)**
 
-- *Sesion para aclarar dudas sobre lo visto en el curso*
+- *Sesión para aclarar dudas sobre lo visto en el curso*
 
 **Sesión 14 (Martes 13 Diciembre 2022) : Sesión de demostración final/cierre de Bootcamp**
 
