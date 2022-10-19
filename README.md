@@ -4,7 +4,7 @@
 
 Bienvenido a su capacitación de Introducción a Azure.
 
-# II. Información general del entrenamiento
+# II - Información General del Entrenamiento
 
 El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
 
@@ -19,7 +19,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 - Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
 
-**Mentorías On Demand**
+**Mentorías On-Demand**
 
 - Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
 
