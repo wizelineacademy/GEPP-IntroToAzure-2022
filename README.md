@@ -21,7 +21,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 **Mentorías On-Demand**
 
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
+- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. [AQUI](#-vii---agenda-tu-mentoría-sobre-pedido-on-demand) encontraras las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 
