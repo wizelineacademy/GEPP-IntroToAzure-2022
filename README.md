@@ -10,27 +10,26 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 **Sesiones en Vivo**
 
-Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión.
+- Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión.
 
-Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom
+- Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom
+- Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom
 
-Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom
+- En las sesiones en línea es obligatorio tener la cámara encendida todo el tiempo.
 
-En las sesiones en línea es obligatorio tener la cámara encendida todo el tiempo.
-
-Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
+- Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
 
 **Mentorías On Demand**
 
-Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
+- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 
-Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
 
-Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
+- Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
 # III - Calendario
 
