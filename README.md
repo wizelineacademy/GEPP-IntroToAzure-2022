@@ -152,7 +152,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
-# VI - Proyecto Final (Capstone)
+# VI - Proyecto Final (Capstone Project)
 
 ✴️ Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
@@ -179,8 +179,8 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 | Marco Muñoz |	Closure |	AQUI |
 | Marco Muñoz |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
 
-# VIII. Contacto Wizeline Academy
+# VIII. Contacto Wizeline Digital Skills Accelerator
 
-Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Academy.
+Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
 📧 Correo electrónico: TBD
