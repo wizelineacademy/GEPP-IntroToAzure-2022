@@ -17,7 +17,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 - En las sesiones en línea es obligatorio tener la cámara encendida todo el tiempo.
 
-- Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
+- Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Digital Skills Accelerator.
 
 **Mentorías On-Demand**
 
@@ -154,7 +154,7 @@ Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
 # VI - Proyecto Final (Capstone Project)
 
-✴️ Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
+✴️ Objetivo para aprobar la asignatura, presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
 # 📆 VII - Agenda tu Mentoría Sobre Pedido (On-Demand) 
 
