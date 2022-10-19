@@ -158,7 +158,7 @@ Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
 # 📆 VII - Agenda tu Mentoría Sobre Pedido (On-Demand) 
 
-Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones: https://calendly.com/tideworks-qa-automation-2022/30min
+Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones:
 
 Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá su calendario con disponibilidad por día y hora. Elige el que mejor se adapte a tu necesidad. Recuerde completar el formulario de comentarios al final de su tutoría.
 
