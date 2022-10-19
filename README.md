@@ -4,21 +4,11 @@
 
 Bienvenido a su capacitación de Introducción a Azure.
 
-# II. Descripción general de la capacitación
+# II. Información general del entrenamiento
 
 El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
 
-# III - Calendario
-
-En este calendario veras las sesiones que están agendadas durante este curso :
-
-<img width="771" alt="Screen Shot 2022-10-18 at 17 54 46" src="https://user-images.githubusercontent.com/115300095/196560350-7433ec3b-1a72-461e-bd9c-4930847f3aaa.png">
-
-<img width="768" alt="Screen Shot 2022-10-18 at 17 55 04" src="https://user-images.githubusercontent.com/115300095/196560368-ff37307f-9615-4eb8-a3fa-55cf814257cb.png">
-
-<img width="767" alt="Screen Shot 2022-10-18 at 17 55 39" src="https://user-images.githubusercontent.com/115300095/196560377-72b897ac-4930-4b0e-a4b1-d394fb007a7a.png">
-
-# IV - Sesiones en línea:
+**Sesiones en Vivo**
 
 Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión.
 
@@ -30,19 +20,29 @@ En las sesiones en línea es obligatorio tener la cámara encendida todo el tiem
 
 Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Academy.
 
-# V - Mentoria Sobre Pedido (On-Demand)
+**Mentorías On Demand**
 
-Estas son sesiones en las que puede interactuar con los ingenieros de Wizeline para responder las preguntas que tenga sobre los temas tratados en las sesiones en vivo, el material de aprendizaje o sobre el proyecto final.
+Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
 
-# VI - Documentos Aprendizaje
+**Ruta de Autoaprendizaje**
 
-Es una colección de recursos (artículos, videos, audios) que ponemos a tu disposición para que puedas complementar tu aprendizaje.
+Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
 
-# VII - Proyecto final
+**Proyecto Final (Capstone Project)**
 
-Es un reto creado para poner en práctica los conocimientos adquiridos durante la formación.
+Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
-# VIII - Sesiones del Curso
+# III - Calendario
+
+En este calendario veras las sesiones que están agendadas durante este curso :
+
+<img width="771" alt="Screen Shot 2022-10-18 at 17 54 46" src="https://user-images.githubusercontent.com/115300095/196560350-7433ec3b-1a72-461e-bd9c-4930847f3aaa.png">
+
+<img width="768" alt="Screen Shot 2022-10-18 at 17 55 04" src="https://user-images.githubusercontent.com/115300095/196560368-ff37307f-9615-4eb8-a3fa-55cf814257cb.png">
+
+<img width="767" alt="Screen Shot 2022-10-18 at 17 55 39" src="https://user-images.githubusercontent.com/115300095/196560377-72b897ac-4930-4b0e-a4b1-d394fb007a7a.png">
+
+# IV - Curricula del entrenamiento
 
 Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
@@ -149,15 +149,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 - *Demostración/entrega del proyecto Capstone*
 
-# 📺 IX - Grabación de las Sesiones y Presentaciones
+# 📺 V - Grabación de las Sesiones y Presentaciones
 
 Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
-# X - Proyecto final (Capstone)
+# VI - Proyecto Final (Capstone)
 
 ✴️ Objetivo para aprobar la asignatura presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
-# 📆 XI - Agenda tu Mentoría Sobre Pedido (On-Demand) 
+# 📆 VII - Agenda tu Mentoría Sobre Pedido (On-Demand) 
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones: https://calendly.com/tideworks-qa-automation-2022/30min
 
@@ -180,7 +180,7 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 | Marco Muñoz |	Closure |	AQUI |
 | Marco Muñoz |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
 
-# XII. Póngase en contacto con la Academia Wizeline
+# VIII. Contacto Wizeline Academy
 
 Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Academy.
 
