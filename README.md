@@ -1,4 +1,4 @@
-# Digital Skills Accelerator Bootcamp - GEPP Intro To Azure
+# Digital Skills Accelerator - GEPP Intro To Azure
 
 # I - Bienvenida
 
@@ -15,9 +15,9 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 - Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom
 - Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom
 
-- En las sesiones en línea es obligatorio tener la cámara encendida todo el tiempo.
+- En las sesiones en línea es sugerido tener la cámara encendida todo el tiempo.
 
-- Si no puede asistir a ninguna sesión virtual, debe informar a su líder con una copia para contactar a Wizeline Digital Skills Accelerator.
+- Si no puede asistir a alguna de las sesiónes en vivo, debe informar a su líder con una copia para contactar a Wizeline Digital Skills Accelerator.
 
 **Mentorías On-Demand**
 
@@ -35,11 +35,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 En este calendario veras las sesiones que están agendadas durante este curso :
 
-<img width="771" alt="Screen Shot 2022-10-18 at 17 54 46" src="https://user-images.githubusercontent.com/115300095/196560350-7433ec3b-1a72-461e-bd9c-4930847f3aaa.png">
 
-<img width="768" alt="Screen Shot 2022-10-18 at 17 55 04" src="https://user-images.githubusercontent.com/115300095/196560368-ff37307f-9615-4eb8-a3fa-55cf814257cb.png">
-
-<img width="767" alt="Screen Shot 2022-10-18 at 17 55 39" src="https://user-images.githubusercontent.com/115300095/196560377-72b897ac-4930-4b0e-a4b1-d394fb007a7a.png">
 
 # IV - Curricula del entrenamiento
 
