@@ -54,90 +54,79 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 2 (Martes 1 Noviembre 2022): Introducción a Cloud Computing**
 
-- *Shared responsibility models*
-- *Define Cloud Models*
-- *Describe the consumption-based model*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **SEMANA 2**
 
 **Sesión 3 (Viernes 4 Noviembre 2022) : Describir los beneficios de usar servicios en la nube**
 
-- *Describe the benefits of high availability and scalability in the cloud*
-- *Describe the benefits of reliability and predictability in the cloud*
-- *Describe the benefits of security and governance in the cloud*
-- *Describe the benefits of manageability in the cloud*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **Sesión 4 (Martes 8 Noviembre 2022) : Describir los tipos de servicios en la nube**
 
-- *Describe Infrastructure as a Service*
-- *Describe Platform as a Service*
-- *Describe Software as a Service*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **SEMANA 3**
 
 **Sesión 5 (Viernes 11 Noviembre 2022) : Componentes arquitectónicos centrales**
 
-- *Get started with Azure accounts*
-- *Describe Azure physical infrastructure*
-- *Describe Azure management infrastructure*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad**
 
-- *Describe Azure directory services*
-- *Describe Azure authentication methods*
-- *Describe Azure external identities*
-- *Describe Azure conditional access*
-- *Describe Azure role-based access control*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **SEMANA 4**
 
 **Sesión 7 (Viernes 18 Noviembre 2022) : Servicios de almacenamiento**
 
-- *Describe Azure storage accounts*
-- *Describe Azure storage redundancy*
-- *Describe Azure storage services*
-- *Identify Azure data migration options*
-- *Identify Azure file movement options*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
 
-- *Describe Azure Virtual Machines*
-- *Describe Azure Virtual Desktop*
-- *Describe Azure Containers*
-- *Describe Azure Functions*
-- *Describe Azure Virtual Private Networks*
-- *Describe Azure ExpressRoute*
-- *APIM Services*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **SEMANA 5**
 
 **Sesión 9 (Viernes 25 Noviembre 2022) : Manejo de costos**
 
-- *Describe factors that can affect costs in Azure*
-- *Compare the Pricing and Total Cost of Ownership calculators*
-- *Describe the Azure Cost Management tool*
-- *Describe the purpose of tags*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **Sesión 10 (Martes 29 Noviembre 2022) : Governance y cumplimiento**
 
-- *Describe the purpose of Azure Blueprints*
-- *Describe the purpose of Azure Policy*
-- *Describe the purpose of resource locks*
-- *Describe the purpose of the Service Trust portal*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **SEMANA 6**
 
 **Sesión 11 (Viernes 2 Diciembre 2022) : Gestión e implementación de recursos de Azure**
 
-- *Describe tools for interacting with Azure*
-- *Describe the purpose of Azure Arc*
-- *Describe Azure Resource Manager and Azure ARM templates*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **Sesión 12 (Martes 6 Diciembre 2022) : Herramientas de monitoreo**
 
-- *Describe the purpose of Azure Advisor*
-- *Describe Azure Service Health*
-- *Describe Azure Monitor*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **SEMANA 7**
 
