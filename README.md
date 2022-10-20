@@ -1,4 +1,5 @@
-# Digital Skills Accelerator - GEPP Intro To Azure
+# Digital Skills Accelerator
+**Intro To Azure : Entrenamiento para GEPP**
 
 # I - Bienvenida
 
@@ -23,7 +24,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 - Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. [AQUÍ](#-vii---agenda-tu-mentoría-sobre-pedido-on-demand) encontrarás las instrucciones y ligas para solicitar una sesión.
 
-**Ruta de Autoaprendizaje**
+**Recursos & Articulos de Auto-Aprendizaje**
 
 - Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementen tu aprendizaje.
 
@@ -144,7 +145,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 - *Sesión para aclarar dudas sobre lo visto en el curso*
 
-**Sesión 14 (Martes 13 Diciembre 2022) : Sesión de demostración final/cierre de Bootcamp**
+**Sesión 14 (Martes 13 Diciembre 2022) : Sesión de demostración final/cierre de Entrenamiento**
 
 - *Demostración/entrega del proyecto Capstone*
 
