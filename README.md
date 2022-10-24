@@ -1,11 +1,11 @@
-# Digital Skills Accelerator
+# DIGITAL SKILLS ACCELERATOR
 **Intro To Azure : Entrenamiento para GEPP**
 
-# I - Bienvenida
+# I - BIENVENIDA
 
 Bienvenido a su capacitación de Introducción a Azure.
 
-# II - Información General del Entrenamiento
+# II - INFORMACION GENERAL DEL ENTRENAMIENTO
 
 El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
 
@@ -32,7 +32,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
-# III - Calendario
+# III - CALENDARIO
 
 En este calendario verás las sesiones que están agendadas durante este curso :
 
@@ -42,7 +42,7 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 <img width="1053" alt="3" src="https://user-images.githubusercontent.com/115300095/196858891-400a67f6-d883-4edc-a75b-01f6042297c2.png">
 
-# IV - Currícula del entrenamiento
+# IV - CURRICULA DEL ENTRENAMIENTO
 
 Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
@@ -142,11 +142,11 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
 
-# VI - Proyecto Final (Capstone Project)
+# VI - PROYECTO FINAL (CAPSTONE PROJECT)
 
 ✴️ Objetivo para aprobar la asignatura, presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
-# 📆 VII - Agenda tu Mentoría Sobre Pedido (On-Demand) 
+# 📆 VII - AGENDA TU MENTORIA SOBRE PEDIDO (MENTORING ON-DEMAND)
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones:
 
@@ -169,8 +169,8 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 | Marco Muñoz |	Closure |	AQUI |
 | Marco Muñoz |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
 
-# VIII. Contacto Wizeline Digital Skills Accelerator
+# VIII. CONTACTO WIZELINE DIGITAL SKILLS ACCELERATOR
 
 Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
-📧 Correo electrónico: TBD
+📧 Correo electrónico: dsa-gepp@wizeline.com
