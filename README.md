@@ -44,6 +44,10 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 # IV - CURRICULA DEL ENTRENAMIENTO
 
+**Syllabus**
+
+Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUI]
+
 Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **SEMANA 1**
