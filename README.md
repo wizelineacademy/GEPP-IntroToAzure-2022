@@ -46,7 +46,7 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 **Syllabus**
 
-Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUI]
+Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/releases/tag/Syllabus)
 
 Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
