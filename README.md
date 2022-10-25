@@ -54,9 +54,11 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **SEMANA 1**
 
-**Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducción**
+**Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducció al curso Intro To Azuren**
 
-- *Introducción al curso de Intro To Azure*
+- *PDF / Material*
+- *Material de autoaprendizaje*
+- *Grabación*
 
 **Sesión 2 (Martes 1 Noviembre 2022): Introducción a Cloud Computing**
 
