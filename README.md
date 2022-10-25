@@ -146,15 +146,11 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 - *Demostración/entrega del proyecto Capstone*
 
-# 📺 V - Grabación de las Sesiones y Presentaciones
-
-Todas las sesiones y presentaciones serán grabadas y compartidas aquí:
-
-# VI - PROYECTO FINAL (CAPSTONE PROJECT)
+# V - PROYECTO FINAL (CAPSTONE PROJECT)
 
 ✴️ Objetivo para aprobar la asignatura, presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
 
-# 📆 VII - AGENDA TU MENTORIA SOBRE PEDIDO (MENTORING ON-DEMAND)
+# 📆 VI - AGENDA TU MENTORIA SOBRE PEDIDO (MENTORING ON-DEMAND)
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones:
 
@@ -177,7 +173,7 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 | Marco Muñoz |	Closure |	AQUI |
 | Marco Muñoz |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
 
-# VIII. CONTACTO WIZELINE DIGITAL SKILLS ACCELERATOR
+# VII. CONTACTO WIZELINE DIGITAL SKILLS ACCELERATOR
 
 Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
