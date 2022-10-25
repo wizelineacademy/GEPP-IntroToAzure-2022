@@ -56,11 +56,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducció al curso Intro To Azuren**
 
+**Instructor : TBD**
+
 - *PDF / Material*
 - *Material de autoaprendizaje*
 - *Grabación*
 
 **Sesión 2 (Martes 1 Noviembre 2022): Introducción a Cloud Computing**
+
+**Instructor : Sergio Rubio Ugalde**
 
 - *PDF / Material*
 - *Material de autoaprendizaje*
@@ -70,11 +74,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 3 (Viernes 4 Noviembre 2022) : Describir los beneficios de usar servicios en la nube**
 
+**Instructor : Sergio Rubio Ugalde**
+
 - *PDF / Material*
 - *Material de autoaprendizaje*
 - *Grabación*
 
 **Sesión 4 (Martes 8 Noviembre 2022) : Describir los tipos de servicios en la nube**
+
+**Instructor : Ricardo Elinar Valdez Hernández**
 
 - *PDF / Material*
 - *Material de autoaprendizaje*
@@ -84,11 +92,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 5 (Viernes 11 Noviembre 2022) : Componentes arquitectónicos centrales**
 
+**Instructor : Ricardo Elinar Valdez Hernández**
+
 - *PDF / Material*
 - *Material de autoaprendizaje*
 - *Grabación*
 
 **Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad**
+
+**Instructor : Erick Abraham Torres Zaragoza**
 
 - *PDF / Material*
 - *Material de autoaprendizaje*
@@ -98,11 +110,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 7 (Viernes 18 Noviembre 2022) : Servicios de almacenamiento**
 
+**Instructor : Erick Abraham Torres Zaragoza**
+
 - *PDF / Material*
 - *Material de autoaprendizaje*
 - *Grabación*
 
 **Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
+
+**Instructor : Jeffry Steven Hernández Torres**
 
 - *PDF / Material*
 - *Material de autoaprendizaje*
@@ -112,11 +128,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 9 (Viernes 25 Noviembre 2022) : Manejo de costos**
 
+**Instructor : Jeffry Steven Hernández Torres**
+
 - *PDF / Material*
 - *Material de autoaprendizaje*
 - *Grabación*
 
 **Sesión 10 (Martes 29 Noviembre 2022) : Governance y cumplimiento**
+
+**Instructor : Sinuhe Diaz**
 
 - *PDF / Material*
 - *Material de autoaprendizaje*
@@ -126,11 +146,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 11 (Viernes 2 Diciembre 2022) : Gestión e implementación de recursos de Azure**
 
+**Instructor : Sinuhe Diaz**
+
 - *PDF / Material*
 - *Material de autoaprendizaje*
 - *Grabación*
 
 **Sesión 12 (Martes 6 Diciembre 2022) : Herramientas de monitoreo**
+
+**Instructor : Sergio Rubio Ugalde**
 
 - *PDF / Material*
 - *Material de autoaprendizaje*
@@ -140,15 +164,19 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 13 (Viernes 9 Diciembre 2022) : Session Cierre (Preguntas y Respuestas)**
 
+**Instructor : Marco Mendoza**
+
 - *Sesión para aclarar dudas sobre lo visto en el curso*
 
 **Sesión 14 (Martes 13 Diciembre 2022) : Sesión de demostración final/cierre de Entrenamiento**
+
+**Instructor : Marco Mendoza**
 
 - *Demostración/entrega del proyecto Capstone*
 
 # V - PROYECTO FINAL (CAPSTONE PROJECT)
 
-✴️ Objetivo para aprobar la asignatura, presentarás un proyecto final que formará parte de la evaluación final vía Zoom, en el que reforzarán y aplicarás los conocimientos adquiridos. En la 6ª semana se programará la sesión y te avisaremos por correo del día y la hora.
+✴️ Como parte del Capstone Project, presentarás un proyecto que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos durante el entrenamiento.
 
 # 📆 VI - AGENDA TU MENTORIA SOBRE PEDIDO (MENTORING ON-DEMAND)
 
@@ -170,11 +198,12 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 | Sinuhe Diaz |	Governance and compliance	| AQUI |
 | Sinuhe Diaz |	Management and deployment of Azure resources	| AQUI |
 | Sergio Rubio Ugalde |	Monitoring tools	| AQUI |
-| Marco Muñoz |	Closure |	AQUI |
-| Marco Muñoz |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
+| Marco Mendoza |	Closure |	AQUI |
+| Marco Mendoza |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
 
 # VII. CONTACTO WIZELINE DIGITAL SKILLS ACCELERATOR
 
 Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
 📧 Correo electrónico: dsa-gepp@wizeline.com
+📱 Grupo de Telegram : https://t.me/dsa_gepp_introtoazure
