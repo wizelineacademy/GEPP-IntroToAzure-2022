@@ -1,11 +1,11 @@
 # DIGITAL SKILLS ACCELERATOR
 **Intro To Azure : Entrenamiento para GEPP**
 
-# I - BIENVENIDA
+# I - Bienvenida
 
 Bienvenido a su capacitación de Introducción a Azure.
 
-# II - INFORMACION GENERAL DEL ENTRENAMIENTO
+# II - Informacion General Del Entrenamiento
 
 El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
 
@@ -32,7 +32,7 @@ El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus 
 
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
-# III - CALENDARIO
+# III - Calendario
 
 En este calendario verás las sesiones que están agendadas durante este curso :
 
@@ -42,7 +42,7 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 <img width="1053" alt="3" src="https://user-images.githubusercontent.com/115300095/196858891-400a67f6-d883-4edc-a75b-01f6042297c2.png">
 
-# IV - CURRICULA DEL ENTRENAMIENTO
+# IV - Curricula Del Entrenamiento
 
 **Syllabus**
 
@@ -174,11 +174,11 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 - *Demostración/entrega del proyecto Capstone*
 
-# V - PROYECTO FINAL (CAPSTONE PROJECT)
+# V - Proyecto Final (Capstone Project)
 
 ✴️ Como parte del Capstone Project, presentarás un proyecto que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos durante el entrenamiento.
 
-# 📆 VI - AGENDA TU MENTORIA SOBRE PEDIDO (MENTORING ON-DEMAND)
+# 📆 VI - Agenda Tu Mentoria Sobre Pedido (Mentoring On-Demand)
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones:
 
@@ -201,7 +201,7 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 | Marco Mendoza |	Closure |	AQUI |
 | Marco Mendoza |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
 
-# VII. CONTACTO WIZELINE DIGITAL SKILLS ACCELERATOR
+# VII. Contacto de Wizeline Digital Skills Accelerator
 
 Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
