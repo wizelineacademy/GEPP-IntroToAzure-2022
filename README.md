@@ -7,7 +7,7 @@ Bienvenido a su capacitación de Introducción a Azure.
 
 # II - Informacion General Del Entrenamiento
 
-El objetivo de esta capacitación es brindarte la oportunidad de actualizar tus conocimientos y desarrollar habilidades, de la mano de los ingenieros de Wizeline. La formación consta de los siguientes elementos:
+Este programa cubrirá los conocimientos fundamentales necesarios para adoptar y comprender la oferta de Azure Cloud de Microsoft. El programa también cubrirá los aspectos básicos de los productos y servicios proporcionados por Microsoft Azure Subscription. Los estudiantes aprenderán sobre los conceptos de la nube de Microsoft Azure y comprenderán la importancia de la nube para su negocio.
 
 **Sesiones en Vivo**
 
