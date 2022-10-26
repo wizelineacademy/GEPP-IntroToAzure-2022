@@ -56,7 +56,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducció al curso Intro To Azuren**
 
-**Instructor : TBD**
+**Instructor : DSA Staff**
 
 - *PDF / Material*
 - *Material de autoaprendizaje*
@@ -185,21 +185,21 @@ Para programar una tutoría en línea personalizada con uno de los mentores, sig
 Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá su calendario con disponibilidad por día y hora. Elige el que mejor se adapte a tu necesidad. Recuerde completar el formulario de comentarios al final de su tutoría.
 
 
-| MENTOR |	TEMA | AGENDAR MENTORIA |
-| ------ | ----- | ---------------- |
-| Sergio Rubio Ugalde | Intro to Cloud Computing |	AQUI |
-| Sergio Rubio Ugalde | Describe the benefits of using cloud services |	AQUI |
-| Ricardo Elinar Valdez Hernández |	Describe cloud service types |	AQUI |
-| Ricardo Elinar Valdez Hernández |	Core Architectural Components |	AQUI |
-| Erick Abraham Torres Zaragoza |	Identity, access and security |	AQUI |
-| Erick Abraham Torres Zaragoza |	Storage Services |	AQUI |
-| Jeffry Steven Hernández Torres |	Compute and networking services	| AQUI |
-| Jeffry Steven Hernández Torres |	Cost management	| AQUI |
-| Sinuhe Diaz |	Governance and compliance	| AQUI |
-| Sinuhe Diaz |	Management and deployment of Azure resources	| AQUI |
-| Sergio Rubio Ugalde |	Monitoring tools	| AQUI |
-| Marco Mendoza |	Closure |	AQUI |
-| Marco Mendoza |	Final Demo Session / Capstone Project Demo/Delivery	| AQUI |
+| MENTOR | AGENDAR MENTORIA |
+| ------ | ----- |
+| Sergio Rubio Ugalde |	AQUI |
+| Sergio Rubio Ugalde | AQUI |
+| Ricardo Elinar Valdez Hernández |	AQUI |
+| Ricardo Elinar Valdez Hernández |	AQUI |
+| Erick Abraham Torres Zaragoza |	AQUI |
+| Erick Abraham Torres Zaragoza |	AQUI |
+| Jeffry Steven Hernández Torres | AQUI |
+| Jeffry Steven Hernández Torres | AQUI |
+| Sinuhe Diaz | AQUI |
+| Sinuhe Diaz |	AQUI |
+| Sergio Rubio Ugalde |	AQUI |
+| Marco Mendoza |	AQUI |
+| Marco Mendoza |	AQUI |
 
 # VII. Contacto de Wizeline Digital Skills Accelerator
 
