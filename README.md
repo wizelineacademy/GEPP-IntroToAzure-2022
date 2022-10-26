@@ -178,7 +178,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 ✴️ Como parte del Capstone Project, presentarás un proyecto que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos durante el entrenamiento.
 
-# 📆 VI - Agenda Tu Mentoria Sobre Pedido (Mentoring On-Demand)
+# 📆 VI - Agenda tu mentoria sobre pedido (Mentoring On-Demand)
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones:
 
