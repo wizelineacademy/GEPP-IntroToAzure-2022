@@ -32,6 +32,10 @@ Este programa cubrirá los conocimientos fundamentales necesarios para adoptar y
 
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
+**Como crear tu cuenta de Free Tier de Azure**
+
+En [ESTE](https://youtu.be/SZVcLkpjTto) video se explica como crear una cuenta gratuita de Microsoft Azure.
+
 # III - Calendario
 
 En este calendario verás las sesiones que están agendadas durante este curso :
