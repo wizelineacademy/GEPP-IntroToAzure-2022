@@ -5,7 +5,9 @@ Instructor : Sergio Rubio Ugalde
 **Topics**
 
 ● Shared responsibility models
+
 ● Define Cloud Models
+
 ● Describe the consumption-based model
 
 **Material**
