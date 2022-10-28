@@ -203,4 +203,4 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 Si tiene alguna pregunta sobre el programa, la logística, el acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
 📧 Correo electrónico: dsa-gepp@wizeline.com
-📱 Grupo de Telegram : https://t.me/dsa_gepp_introtoazure
+📱 Grupo de Telegram : https://t.me/+gtbE8zyaXUtjN2Vh
