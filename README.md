@@ -70,7 +70,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Sergio Rubio Ugalde**
 
-- [*PDF / Material*](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Session%201/Kick%20Off.md)
+- *PDF / Material*
 - *Material de autoaprendizaje*
 - *Grabación*
 
