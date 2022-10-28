@@ -12,4 +12,4 @@ Instructor : Sergio Rubio Ugalde
 
 **Material**
 
-[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9873929/Intro.to.Cloud.Computing.pptx)
+Disponible Aqui
