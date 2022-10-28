@@ -5,7 +5,9 @@
 # Temas :
 
 ● Introduction
+● Review Pre-Training Information
+● Q&A
 
 # Material :
 
-[Disponible Aqui]
+[Disponible Aqui]((https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9890640/GEPP._.IntroToAzure._.Kick.Off.pptx.pdf))
