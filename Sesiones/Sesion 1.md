@@ -10,4 +10,4 @@
 
 # Material :
 
-[Disponible Aqui]((https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9890640/GEPP._.IntroToAzure._.Kick.Off.pptx.pdf))
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9890640/GEPP._.IntroToAzure._.Kick.Off.pptx.pdf)
