@@ -193,8 +193,8 @@ Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá s
 
 | MENTOR | AGENDAR MENTORIA |
 | ------ | ----- |
-| Sergio Rubio Ugalde |	AQUI |
-| Ricardo Elinar Valdez Hernández |	AQUI |
+| Sergio Rubio Ugalde |	[AQUI](https://calendly.com/sergio-rubio-wize) |
+| Ricardo Elinar Valdez Hernández |	[AQUI](http://calendly.com/rich-valdez) |
 | Erick Abraham Torres Zaragoza |	[AQUI](https://calendly.com/erick-torres-2) |
 | Jeffry Steven Hernández Torres | [AQUI](http://calendly.com/jhernandezwz) |
 | Sinuhe Diaz |	[AQUI](https://calendly.com/sinuhe-diaz-wz) |
