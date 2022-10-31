@@ -62,15 +62,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : DSA Staff**
 
-- [*PDF / Material*](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%201.md)
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%201.md)
 
 **Sesión 2 (Martes 1 Noviembre 2022): Introducción a Cloud Computing**
 
 **Instructor : Sergio Rubio Ugalde**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **SEMANA 2**
 
@@ -78,17 +78,17 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Sergio Rubio Ugalde**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **Sesión 4 (Martes 8 Noviembre 2022) : Describir los tipos de servicios en la nube**
 
 **Instructor : Ricardo Elinar Valdez Hernández**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **SEMANA 3**
 
@@ -96,17 +96,17 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Ricardo Elinar Valdez Hernández**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad**
 
 **Instructor : Erick Abraham Torres Zaragoza**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **SEMANA 4**
 
@@ -114,17 +114,17 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Erick Abraham Torres Zaragoza**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- *DF / Material
+- *Material de autoaprendizaje
+- *Grabación
 
 **Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
 
 **Instructor : Jeffry Steven Hernández Torres**
 
 - *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- Material de autoaprendizaje*
+- Grabación*
 
 **SEMANA 5**
 
@@ -132,17 +132,17 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Jeffry Steven Hernández Torres**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **Sesión 10 (Martes 29 Noviembre 2022) : Governance y cumplimiento**
 
 **Instructor : Sinuhe Diaz**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **SEMANA 6**
 
@@ -150,17 +150,17 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Sinuhe Diaz**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **Sesión 12 (Martes 6 Diciembre 2022) : Herramientas de monitoreo**
 
 **Instructor : Sergio Rubio Ugalde**
 
-- *PDF / Material*
-- *Material de autoaprendizaje*
-- *Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **SEMANA 7**
 
@@ -168,13 +168,13 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Marco Mendoza**
 
-- *Sesión para aclarar dudas sobre lo visto en el curso*
+- Sesión para aclarar dudas sobre lo visto en el curso
 
 **Sesión 14 (Martes 13 Diciembre 2022) : Sesión de demostración final/cierre de Entrenamiento**
 
 **Instructor : Marco Mendoza**
 
-- *Demostración/entrega del proyecto Capstone*
+- Demostración/entrega del proyecto Capstone
 
 # V - Proyecto Final (Capstone Project)
 
