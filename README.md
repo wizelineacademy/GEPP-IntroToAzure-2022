@@ -50,7 +50,7 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 **Syllabus**
 
-Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/releases/tag/Syllabus)
+Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9903731/DSA.-.GEPP.Intro.to.Azure._.Syllabus._.Wizeline.pdf)
 
 **Desglose del Entrenamiento**
 
