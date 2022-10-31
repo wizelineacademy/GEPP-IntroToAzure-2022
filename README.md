@@ -11,7 +11,11 @@ Este programa cubrirá los conocimientos fundamentales necesarios para adoptar y
 
 **Sesiones en Vivo**
 
-- Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión.
+- Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión, esta es la liga e informacion para el acceso a las sesiones :
+
+ZOOM : https://wizeline.zoom.us/my/digitalskillsaccelerator
+
+PASSCODE : 383560
 
 - Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom
 - Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom
