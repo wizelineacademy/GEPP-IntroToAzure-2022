@@ -120,17 +120,17 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Erick Abraham Torres Zaragoza**
 
-- *DF / Material
-- *Material de autoaprendizaje
-- *Grabación
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
 
 **Instructor : Jeffry Steven Hernández Torres**
 
-- *PDF / Material*
-- Material de autoaprendizaje*
-- Grabación*
+- PDF / Material
+- Material de autoaprendizaje
+- Grabación
 
 **SEMANA 5**
 
