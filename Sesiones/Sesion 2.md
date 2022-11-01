@@ -1,4 +1,4 @@
-# Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducción
+# Sesión 2 (Martes 1 Noviembre 2022) : Introducción a Cloud Computing
 
 **Instructor : Sergio Rubio Ugalde**
 
