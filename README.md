@@ -13,9 +13,11 @@ Este programa cubrirá los conocimientos fundamentales necesarios para adoptar y
 
 - Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión, esta es la liga e informacion para el acceso a las sesiones :
 
-ZOOM : [LINK](https://wizeline.zoom.us/j/2195145581?pwd=VXM2QkRRYzdZNk1KSTF2aFdpWHMwUT09
-MEETING ID: 219 514 5581
-PASSCODE: 8Ut.%ZVZ0e
+- ZOOM : [LINK](https://wizeline.zoom.us/j/2195145581?pwd=VXM2QkRRYzdZNk1KSTF2aFdpWHMwUT09)
+- MEETING ID: 219 514 5581
+- PASSCODE: 8Ut.%ZVZ0e
+
+**Horarios de Sesiones en Vivo**
 
 - Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom
 - Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom
