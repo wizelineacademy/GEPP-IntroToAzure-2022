@@ -68,7 +68,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : DSA Staff**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%201.md)
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%201%20:%20Sesi%C3%B3n%20de%20inicio-Introduccion.md)
 
 **Sesión 2 (Martes 1 Noviembre 2022): Introducción a Cloud Computing**
 
