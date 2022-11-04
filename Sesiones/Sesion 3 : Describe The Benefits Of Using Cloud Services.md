@@ -1,4 +1,4 @@
-# Sesión 2 (Viernes 4 Noviembre 2022) : Benefits Of Using Cloud Services
+# Sesión 3 (Viernes 4 Noviembre 2022) : Benefits Of Using Cloud Services
 
 **Instructor : Sergio Rubio Ugalde**
 
@@ -14,4 +14,4 @@
 
 # Material :
 
-[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9911768/Intro.to.Cloud.Computing.pptx.pdf)
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9939907/Describe.the.benefits.of.using.cloud.services.pptx.pdf)
