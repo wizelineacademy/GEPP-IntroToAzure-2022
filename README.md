@@ -84,7 +84,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Sergio Rubio Ugalde**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%203%20:%20Describe%20The%20Benefits%20Of%20Using%20Cloud%20Services.md)
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%203%20:%20Beneficios%20de%20Usar%20Servicios%20Cloud.md)
 - Material de autoaprendizaje
 - [Grabación](https://www.youtube.com/watch?v=LJGTi8p342s)
 
