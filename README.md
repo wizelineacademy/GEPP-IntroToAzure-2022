@@ -90,7 +90,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Ricardo Elinar Valdez Hernández**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%204%20:%20Modelos%20de%20Servicios%20Cloud.md)
 - Grabación
 
 **SEMANA 3**
