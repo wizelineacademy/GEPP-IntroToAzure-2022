@@ -75,7 +75,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Sergio Rubio Ugalde**
 
 - [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%202%20:%20Introducci%C3%B3n%20a%20Cloud%20Computing.md)
-- Material de autoaprendizaje
 - [Grabación](https://youtu.be/10EDtg9mViI)
 
 **SEMANA 2**
@@ -85,7 +84,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Sergio Rubio Ugalde**
 
 - [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%203%20:%20Beneficios%20de%20Usar%20Servicios%20Cloud.md)
-- Material de autoaprendizaje
 - [Grabación](https://www.youtube.com/watch?v=LJGTi8p342s)
 
 **Sesión 4 (Martes 8 Noviembre 2022) : Describir los tipos de servicios en la nube**
@@ -93,7 +91,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Ricardo Elinar Valdez Hernández**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **SEMANA 3**
@@ -103,7 +100,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Ricardo Elinar Valdez Hernández**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad**
@@ -111,7 +107,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Erick Abraham Torres Zaragoza**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **SEMANA 4**
@@ -121,7 +116,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Erick Abraham Torres Zaragoza**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
@@ -129,7 +123,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Jeffry Steven Hernández Torres**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **SEMANA 5**
@@ -139,7 +132,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Jeffry Steven Hernández Torres**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **Sesión 10 (Martes 29 Noviembre 2022) : Governance y cumplimiento**
@@ -147,7 +139,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Sinuhe Diaz**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **SEMANA 6**
@@ -157,7 +148,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Sinuhe Diaz**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **Sesión 12 (Martes 6 Diciembre 2022) : Herramientas de monitoreo**
@@ -165,7 +155,6 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Sergio Rubio Ugalde**
 
 - PDF / Material
-- Material de autoaprendizaje
 - Grabación
 
 **SEMANA 7**
