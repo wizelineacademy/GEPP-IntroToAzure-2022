@@ -1,4 +1,4 @@
-# Sesión 3 (Viernes 4 Noviembre 2022) : Benefits Of Using Cloud Services
+# Sesión 3 (Viernes 4 Noviembre 2022) : Beneficios de Usar Servicios Cloud
 
 **Instructor : Sergio Rubio Ugalde**
 
