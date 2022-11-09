@@ -38,13 +38,13 @@ Este programa cubrirá los conocimientos fundamentales necesarios para adoptar y
 
 - Si no puede asistir a alguna de las sesiónes en vivo, debe informar a su líder con una copia para contactar a Wizeline Digital Skills Accelerator.
 
+**Material & Grabaciones**
+
+- Esto es una recopilación del material presentado durante las sesiones y las grabaciones de cada sesion, que pondremos a tu disposición para que complementen tu aprendizaje.
+
 **Mentorías On-Demand**
 
 - Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. [AQUÍ](#-vi---agenda-tu-mentoria-sobre-pedido-mentoring-on-demand) encontrarás las instrucciones y ligas para solicitar una sesión.
-
-**Recursos & Articulos de Auto-Aprendizaje**
-
-- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementen tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
 
