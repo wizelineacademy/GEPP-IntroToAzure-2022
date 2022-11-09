@@ -157,7 +157,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Sesión 11 (Viernes 2 Diciembre 2022) : Gestión e implementación de recursos de Azure**
 
-**Instructor : Sinuhe Diaz**
+**Instructor : Sergio Rubio Ugalde**
 
 - PDF / Material
 - Grabación
