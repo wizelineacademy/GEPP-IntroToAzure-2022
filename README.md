@@ -68,7 +68,7 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 **Syllabus**
 
-Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9903731/DSA.-.GEPP.Intro.to.Azure._.Syllabus._.Wizeline.pdf)
+Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9973567/DSA.-.GEPP.Intro.to.Azure._.Syllabus._.Wizeline.pdf)
 
 **Desglose del Entrenamiento**
 
@@ -76,7 +76,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **SEMANA 1**
 
-**Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducció al curso Intro To Azuren**
+**Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducció al curso Intro To Azure**
 
 **Instructor : DSA Staff**
 
