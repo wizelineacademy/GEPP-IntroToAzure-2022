@@ -12,4 +12,4 @@
 
 # Material :
 
-[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9911768/Intro.to.Cloud.Computing.pptx.pdf)
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9984818/Intro.to.Cloud.Computing.pdf)
