@@ -14,4 +14,4 @@
 
 # Material :
 
-[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9984802/Benefits.Of.Using.Cloud.Services.pptx.pdf)
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9984829/Benefits.Of.Using.Cloud.Services.pdf)
