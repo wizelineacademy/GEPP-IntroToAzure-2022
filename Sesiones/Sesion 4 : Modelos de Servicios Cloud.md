@@ -12,4 +12,4 @@
 
 # Material :
 
-[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9962105/GEPP.Cloud.Service.Models.pdf)
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9984785/Cloud.Service.Models.pdf)
