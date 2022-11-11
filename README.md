@@ -70,6 +70,10 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9973567/DSA.-.GEPP.Intro.to.Azure._.Syllabus._.Wizeline.pdf)
 
+**Comentarios de la sesión**
+
+Al final de cada sesión en vivo, completa nuestra [Encuesta de Retroaliemtacion](https://docs.google.com/forms/d/e/1FAIpQLSf8tahLh_1_DA7B4rv10X0RGHLCrvOUEpnh04f9Trnk0LeWKg/viewform) para ayudarnos a mejorar tu experiencia de aprendizaje.
+
 **Desglose del Entrenamiento**
 
 Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
