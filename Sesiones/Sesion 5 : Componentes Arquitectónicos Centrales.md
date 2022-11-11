@@ -1,14 +1,14 @@
-# Sesión 5 (Viernes 4 Noviembre 2022) : Modelos de Servicios Cloud
+# Sesión 5 (Viernes 11 Noviembre 2022) : Componentes arquitectónicos centrales
 
 **Instructor : Ricardo Elinar Valdez Hernández**
 
 # Temas :
 
-● Describe Infrastructure as a Service
+● Get started with Azure accounts
 
-● Describe Platform as a Service
+● Describe Azure physical infrastructure
 
-● Describe Software as a Service
+● Describe Azure management infrastructure
 
 # Material :
 
