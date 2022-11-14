@@ -116,7 +116,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Ricardo Elinar Valdez Hernández**
 
 - [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%205%20:%20Componentes%20Arquitect%C3%B3nicos%20Centrales.md)
-- Grabación
+- [Grabación](https://youtu.be/mLx5v7Aft2w)
 
 **Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad**
 
