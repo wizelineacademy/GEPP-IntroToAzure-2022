@@ -122,7 +122,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Erick Abraham Torres Zaragoza**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/10015100/Azure.Course_.Identity.Governance.Privacy.and.Compliance.pdf)
 - Grabación
 
 **SEMANA 4**
