@@ -131,7 +131,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Erick Abraham Torres Zaragoza**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/10042640/Session.7.-.Storage.Services.pdf)
 - Grabación
 
 **Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
