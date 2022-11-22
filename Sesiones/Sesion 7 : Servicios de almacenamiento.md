@@ -16,4 +16,4 @@
 
 # Material :
 
-[Disponible Aqui]
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/10042640/Session.7.-.Storage.Services.pdf)
