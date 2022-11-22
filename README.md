@@ -138,7 +138,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Jeffry Steven Hernández Torres**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/10069713/Compute.and.Networking.Services.pptx.pdf)
+- [PDF / Material]
 - [Grabación](https://youtu.be/aQXSvggEZG0)
 
 **SEMANA 5**
