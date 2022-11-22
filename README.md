@@ -122,7 +122,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Erick Abraham Torres Zaragoza**
 
-- [PDF / Material]
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%206%20:%20Identidad%2C%20acceso%20y%20seguridad.md)
 - [Grabación](https://youtu.be/R4539zcRJLc)
 
 **SEMANA 4**
@@ -131,14 +131,14 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Erick Abraham Torres Zaragoza**
 
-- [PDF / Material]
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%207%20:%20Servicios%20de%20almacenamiento.md)
 - [Grabación](https://youtu.be/_CpyPkTvhoA)
 
 **Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
 
 **Instructor : Jeffry Steven Hernández Torres**
 
-- [PDF / Material]
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%208%20:%20Servicios%20Informaticos%20y%20de%20Redes.md)
 - [Grabación](https://youtu.be/aQXSvggEZG0)
 
 **SEMANA 5**
