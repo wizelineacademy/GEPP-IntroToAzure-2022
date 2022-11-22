@@ -1,6 +1,6 @@
 # Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad
 
-**Instructor : Erick Abraham Torres Zaragoza
+**Instructor : Erick Abraham Torres Zaragoza**
 
 # Temas :
 
@@ -16,4 +16,4 @@
 
 # Material :
 
-[Disponible Aqui]
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/10015100/Azure.Course_.Identity.Governance.Privacy.and.Compliance.pdf)
