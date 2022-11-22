@@ -1,15 +1,19 @@
-# Sesión 6 (Viernes 11 Noviembre 2022) : Componentes arquitectónicos centrales
+# Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad
 
-**Instructor : Ricardo Elinar Valdez Hernández**
+**Instructor : Erick Abraham Torres Zaragoza
 
 # Temas :
 
-● Get started with Azure accounts
+● Describe Azure directory services
 
-● Describe Azure physical infrastructure
+● Describe Azure authentication methods
 
-● Describe Azure management infrastructure
+● Describe Azure external identities
+
+● Describe Azure conditional access
+
+● Describe Azure role-based access control
 
 # Material :
 
-[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9991449/Core.Architectural.Components.pdf)
+[Disponible Aqui]
