@@ -147,7 +147,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Jeffry Steven Hernández Torres**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%209%20:%20Manejo%20de%20Costos.md)
 - Grabación
 
 **Sesión 10 (Martes 29 Noviembre 2022) : Governance y cumplimiento**
