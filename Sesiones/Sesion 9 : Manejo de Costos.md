@@ -4,19 +4,13 @@
 
 # Temas :
 
-● Describe Azure Virtual Machines
+● Describe factors that can affect costs in Azure
 
-● Describe Azure Virtual Desktop
+● Compare the Pricing and Total Cost of Ownership calculators
 
-● Describe Azure Containers
+● Describe the Azure Cost Management tool
 
-● Describe Azure Functions
-
-● Describe Azure Virtual Private Networks
-
-● Describe Azure ExpressRoute
-
-● APIM Services
+● Describe the purpose of tags
 
 # Material :
 
