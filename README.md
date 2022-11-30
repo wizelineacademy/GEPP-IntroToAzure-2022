@@ -155,7 +155,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 **Instructor : Sinuhe Diaz**
 
 - [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%2010%20:%20Governance%20y%20Cumplimiento.md)
-- Grabación
+- [Grabación](https://youtu.be/rtMM-p8UFeY)
 
 **SEMANA 6**
 
