@@ -163,7 +163,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Sergio Rubio Ugalde**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%2011%20:%20Gesti%C3%B3n%20e%20implementaci%C3%B3n%20de%20recursos%20de%20Azure.md)
 - Grabación
 
 **Sesión 12 (Martes 6 Diciembre 2022) : Herramientas de monitoreo**
