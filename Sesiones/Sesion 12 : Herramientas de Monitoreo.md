@@ -12,4 +12,4 @@
 
 # Material :
 
-[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/10143328/Management.and.deployment.of.Azure.resources.pptx.pdf)
+[Disponible Aqui](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/10167500/Monitoring.tools.pptx.pdf)
